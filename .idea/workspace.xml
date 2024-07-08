@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00083442-1dbe-4530-82e1-0f28b16e47f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/card/RestaurantCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/provider/ThemeProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/script/KakaoMap.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/useRestaurantList.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/api/requests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/api/wrapper.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/spinner/pacman.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/random-pick/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/provider/ThemeProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/provider/ThemeProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useRestaurantList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useRestaurantList.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +76,7 @@
       <workItem from="1720358633341" duration="655000" />
       <workItem from="1720359301007" duration="4264000" />
       <workItem from="1720363580676" duration="2808000" />
-      <workItem from="1720369309617" duration="1087000" />
+      <workItem from="1720369309617" duration="7117000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,7 @@ export const useRestaurantList = () => {
   >({
     queryKey: ["restaurantList"],
     queryFn: getRestaurantList,
+    staleTime: 1000 * 60 * 60,
   })
 
   return { data, error, isLoading }
